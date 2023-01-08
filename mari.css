@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+.mari{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}
+.cats{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}
+
+.title{
+    background-color: aquamarine;
+    font-family: cursive;
+    border-bottom: solid 1px ;
+    margin-top: 0px;
+}
+
+.head{
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+  
+}
+.all{
+    text-align: center;
+}
+
+.back{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.mari2{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}
+.mari1{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}
+.mari3{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}

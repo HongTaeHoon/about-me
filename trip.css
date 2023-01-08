@@ -1,0 +1,55 @@
+.title{
+    background-color: aquamarine;
+    font-family: cursive;
+    border-bottom: solid 1px ;
+    margin-top: 0px;
+
+}
+
+.head{
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+  
+}
+
+.france{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}
+
+.jeju{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}
+.abroad{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}
+
+.back{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.seoul{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+    height: 200px;
+}
+.all{
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 0px;
+}

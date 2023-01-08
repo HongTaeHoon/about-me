@@ -1,0 +1,57 @@
+*{
+  box-sizing: border-box ;
+}
+.myimg{
+  width: 100px;
+  border-radius: 10px;
+  position: relative;
+}
+.first{
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.title{
+  border-bottom: solid 1px ;
+  text-align: center;
+  background-color: aquamarine;
+  width: 100%;
+  margin-top: 0px;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  margin : 0px;
+}
+
+.section2{
+  padding-top: 50px;
+}
+.second{
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.gym{
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+  margin:20px
+  
+}
+.mari{
+  border-radius: 10px;
+  width: 200px;
+  margin: 20px;
+  height: 200px;
+}
+.trip{
+  border-radius: 10px;
+  width: 200px;
+  margin: 20px;
+}
+.image{
+  display: flex;
+  align-items: flex-start;
+}

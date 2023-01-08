@@ -1,0 +1,50 @@
+.title{
+    background-color: aquamarine;
+    font-family: cursive;
+    border-bottom: solid 1px ;
+    margin-top: 0px;
+}
+
+.head{
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+  
+}
+.all{
+    text-align: center;
+}
+
+.back{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.soccer{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+    height: 200px;
+}
+
+.basketball{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+    height: 200px; 
+}
+
+.golf{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+    height: 200px;
+}
+
+.health{
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+    height: 200px;
+}
